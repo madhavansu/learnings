@@ -1,7 +1,7 @@
 # Create Diagrams for architectural practices
 ## Diagrams
-canva
-figma
+Canva
+Figma
 draw.io
 
 ## code to diagram
